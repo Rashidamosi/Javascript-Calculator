@@ -1,2 +1,2 @@
 # Javascript-Calculator
- Zuri Javascript Calculator Task
+ Zuri Simple Javascript Calculator Task
